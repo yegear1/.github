@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="assets/header-neofetch.svg" width="100%" alt="neofetch card with spinning 3D ASCII cube">
+  <img src="assets/header-logo.svg" width="100%" alt="neofetch card with YEGE ASCII logo: Luis (@yegear1)">
 </p>
 
 <p align="center">
   <sub>Docker · Proxmox · Traefik · Linux · VictoriaLogs · Vector · Python · Go · TypeScript · Bash · SQLite · MCP</sub>
-</p>
-
-<p align="center">
-  <sub>🎨 <b>Preview Versions:</b> <a href="versions/v1-minimal.md">v1: Minimal Text</a> · <a href="versions/v2-neofetch-logo.md">v2: Neofetch + Logo</a> · <a href="versions/v3-neofetch-cube.md">v3: Neofetch + 3D Cube</a> · <b>[v4: Cube + Stats]</b> &nbsp;|&nbsp; 🌐 <b>EN</b> · <a href="README.pt-br.md">PT-BR</a></sub>
 </p>
 
 ---
@@ -39,29 +35,6 @@ I care about simple, self-contained tools, clean logs, and software that is easy
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=light&perline=14" />
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" alt="Tech Stack" />
-  </picture>
-</div>
-
-### `~/stats`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=default&background=transparent&border=00000000&ring=0d1117&fire=0d1117" />
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" alt="GitHub Streak" />
   </picture>
 </div>
 
