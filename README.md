@@ -68,6 +68,9 @@ cp /path/to/.github/.github/pull_request_template.md .github/pull_request_templa
 │   ├── FUNDING.yml
 │   └── pull_request_template.md
 ├── profile/
+│   ├── assets/
+│   │   ├── header-neofetch.pt-br.svg
+│   │   └── header-neofetch.svg
 │   ├── README.md
 │   └── README.pt-br.md
 ├── CODE_OF_CONDUCT.md

@@ -1,25 +1,40 @@
-# Luis (`@yegear1`)
+<p align="center">
+  <img src="assets/header-neofetch.pt-br.svg" width="100%" alt="Card estilo neofetch: Luis (@yegear1), Infra e Aspirante a Dev, Homelab, Docker, Proxmox, Python, Go, TypeScript.">
+</p>
 
-Engenheiro de Software focado em ferramentas para desenvolvedores, orquestração multi-agente, sistemas de alta disponibilidade e infraestrutura self-hosted.
+<p align="center">
+  <sub>Docker · Proxmox · Traefik · Linux · VictoriaLogs · Vector · Python · Go · TypeScript · Bash · SQLite · MCP</sub>
+</p>
 
-**[English](README.md)** | **[Português (Brasil)](README.pt-br.md)**
+<p align="center">
+  <a href="README.md">English</a> · <b>Português (Brasil)</b>
+</p>
 
-## Projetos Open Source em Destaque
+---
 
-| Projeto | Stack | Descrição |
-| :--- | :--- | :--- |
-| [**multigravity-cli**](https://github.com/yegear1/multigravity-cli) | Go | Gerenciador de perfis isolados, orquestrador de workspaces e CLI de telemetria para múltiplas instâncias simultâneas do Antigravity IDE. |
-| [**taskctl**](https://github.com/yegear1/taskctl) | Python | CLI para ciclo de vida de tarefas, motor de contratos e orquestração multi-agente com zero dependências externas de execução. |
-| [**baileys-wwebjs-failover**](https://github.com/yegear1/baileys-wwebjs-failover) | TypeScript | Gateway HTTP de alta disponibilidade para WhatsApp combinando motor primário Baileys com failover automático para WWebJS. |
-| [**oracle-cloud-free-arm-instance-docker-compose**](https://github.com/yegear1/oracle-cloud-free-arm-instance-docker-compose) | Go / Docker | Provisionamento automatizado de instâncias ARM Ampere A1 na Oracle Cloud via OCI CLI. |
+Olá, sou o **Luis** (`@yegear1`).
 
-## Stack Principal & Áreas de Foco
+Trabalho com infraestrutura e sou um aspirante a desenvolvedor aprendendo na prática através da criação de projetos próprios. A maior parte do que desenvolvo nasce para resolver necessidades reais do meu homelab ou do meu fluxo de trabalho no dia a dia — desde automatizar o provisionamento de servidores e garantir alta disponibilidade com failover até construir ferramentas de linha de comando (CLI) e integrações com agentes de IA.
 
-- **Linguagens & Runtimes:** Python, Go, TypeScript, Node.js, Bash
-- **Frontend & UI:** Svelte 5, React, Tailwind CSS
-- **Infraestrutura & Observabilidade:** Docker, Proxmox, Traefik, VictoriaLogs, Vector, SQLite (WAL)
-- **IA & Automação:** Orquestração multi-agente, servidores MCP, automação E2E determinística
+Gosto de ferramentas diretas e sem dependências desnecessárias, logs bem estruturados e soluções fáceis de rodar, diagnosticar e manter em produção.
 
-## Governança & Comunidade
+### `~/projects`
 
-Todos os repositórios públicos sob `@yegear1` herdam diretrizes padronizadas de contribuição, divulgação de segurança e templates de issues a partir de [`yegear1/.github`](https://github.com/yegear1/.github).
+- [**multigravity-cli**](https://github.com/yegear1/multigravity-cli) — gerenciador de perfis isolados, orquestrador de workspaces e CLI de telemetria para múltiplas instâncias do Antigravity IDE · `Go`
+- [**taskctl**](https://github.com/yegear1/taskctl) — CLI para ciclo de vida de tarefas, motor de contratos e orquestração multi-agente com zero dependências externas · `Python`
+- [**git-sync**](https://github.com/yegear1/git-sync) — auditor concorrente de status e sincronizador fast-forward para múltiplos repositórios Git locais · `Python`
+- [**baileys-wwebjs-failover**](https://github.com/yegear1/baileys-wwebjs-failover) — gateway HTTP de alta disponibilidade para WhatsApp combinando motor primário Baileys com failover automático para WWebJS · `TypeScript`
+- [**homelab-schedule**](https://github.com/yegear1/homelab-schedule) — agendador leve em container único e servidor MCP para disparo de tarefas únicas e recorrentes via HTTP · `Python` · `Docker`
+- [**oracle-cloud-free-arm-instance**](https://github.com/yegear1/oracle-cloud-free-arm-instance-docker-compose) — ferramenta de provisionamento automatizado de instâncias ARM Ampere A1 na Oracle Cloud via OCI CLI · `Go` · `Docker`
+
+### `~/homelab-and-stack`
+
+- **Infraestrutura & Operações:** Docker Compose, Proxmox VE, Traefik, administração Linux, serviços self-hosted
+- **Observabilidade:** VictoriaLogs, Vector, logs estruturados em NDJSON, healthchecks
+- **Desenvolvimento (Estudando & Construindo):** Python, Go, TypeScript, Node.js, Bash, SQLite (WAL), Svelte 5, React
+- **Automação & IA:** Servidores MCP, fluxos multi-agente, ferramentas CLI determinísticas
+
+<p align="center">
+  <a href="https://github.com/yegear1"><img src="https://img.shields.io/badge/github-@yegear1-101214?style=for-the-badge&logo=github&logoColor=8abeb7" alt="GitHub"></a>
+  <a href="https://ko-fi.com/yegear1"><img src="https://img.shields.io/badge/ko--fi-yegear1-101214?style=for-the-badge&logo=kofi&logoColor=8abeb7" alt="Ko-fi"></a>
+</p>
