@@ -5,7 +5,7 @@ This repository provides account-wide default community health files, guidelines
 Public repositories under this account that do not define their own local governance files automatically inherit:
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md) — Contribution guidelines and development invariants
 - [`SECURITY.md`](./SECURITY.md) — Vulnerability reporting policy (GitHub Private Vulnerability Reporting)
-- [Issue Templates](./.github/ISSUE_TEMPLATE/) — Bug report and feature request templates
+- [Issue Forms & Selector Config](./.github/ISSUE_TEMPLATE/) — Structured YAML bug report, feature request forms, and issue chooser configuration (`config.yml`)
 - [Pull Request Template](./.github/pull_request_template.md) — Standardized PR description checklist
 
 ## Purpose

@@ -8,11 +8,11 @@ Thank you for your interest in contributing! These guidelines apply to public re
    Before creating a new issue or PR, search existing open and closed issues to avoid duplicate reports.
 
 2. **Reporting Bugs:**
-   - Use the [Bug Report template](.github/ISSUE_TEMPLATE/bug_report.md).
+   - Use the [Bug Report form](.github/ISSUE_TEMPLATE/bug_report.yml).
    - Provide minimal reproducible examples, exact error output, and environment details (OS, runtime version).
 
 3. **Feature Requests & Enhancements:**
-   - Use the [Feature Request template](.github/ISSUE_TEMPLATE/feature_request.md).
+   - Use the [Feature Request form](.github/ISSUE_TEMPLATE/feature_request.yml).
    - Clearly describe the problem you are solving and why proposed changes benefit the tool.
 
 4. **Pull Requests:**
