@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 418" width="840" height="418" role="img" aria-label="neofetch-style card with spinning 3D ASCII cube: Luis (@yegear1), Infra &amp; Aspiring Dev, Homelab, Docker, Proxmox, Python, Go, TypeScript.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 418" width="840" height="418" role="img" aria-label="neofetch-style card with spinning 3D ASCII cube: Luis (@yegear1), Infra &amp; Aspiring Dev">
 <defs>
   <filter id="glow" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.3"/></pattern>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-neofetch.pt-br.svg" width="100%" alt="Card estilo neofetch com cubo 3D ASCII girando: Luis (@yegear1), Infra e Aspirante a Dev, Homelab, Docker, Proxmox, Python, Go, TypeScript.">
+  <img src="assets/header-neofetch.pt-br.svg" width="100%" alt="neofetch card with spinning 3D ASCII cube">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <b>Português (Brasil)</b>
+  <sub>🎨 <b>Versões de Teste:</b> <a href="versions/v1-pt-br.md">v1: Minimalista</a> · <a href="versions/v2-pt-br.md">v2: Neofetch + Logo</a> · <a href="versions/v3-pt-br.md">v3: Neofetch + Cubo 3D</a> · <b>[v4: Cubo + Stats]</b> &nbsp;|&nbsp; 🌐 <a href="README.md">EN</a> · <b>PT-BR</b></sub>
 </p>
 
 ---

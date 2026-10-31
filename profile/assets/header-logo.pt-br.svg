@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 418" width="840" height="418" role="img" aria-label="Card estilo neofetch com logo ASCII YEGE: Luis (@yegear1), Infra e Aspirante a Dev">
+<defs>
+  <filter id="glow" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.3"/></pattern>
+  <radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".7"/></radialGradient>
+  <clipPath id="win"><rect width="840" height="418" rx="12"/></clipPath>
+  <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8abeb7"/><stop offset=".5" stop-color="#81a2be"/><stop offset="1" stop-color="#b294bb"/></linearGradient>
+</defs>
+<style>
+  .t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+  .bar{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:12px;fill:#6b7078}
+  .cur{animation:blink 1s infinite steps(1)}
+  @keyframes blink{0%{opacity:1}50%{opacity:0}}
+  @keyframes cframe{0%,8.33%{opacity:1}8.34%,100%{opacity:0}}
+  
+  @media (prefers-reduced-motion:reduce){.cur,.cf{animation:none}.cf0{opacity:1}}
+  .wh{fill:#e6e6e6}.dim{fill:#5c6370}.key{fill:#8abeb7;font-weight:700}.logo{fill:url(#lg);font-weight:700}
+</style>
+<g clip-path="url(#win)">
+  <rect width="840" height="418" fill="#101214"/>
+  <rect width="840" height="34" fill="#181b1f"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+  <text x="420" y="21" text-anchor="middle" class="bar">luis@yegear1: ~</text>
+  <g filter="url(#glow)">
+    <text x="40" y="62" class="t key" font-size="14" textLength="142.8" lengthAdjust="spacingAndGlyphs">luis@yegear1 ~ $ </text>
+    <clipPath id="ty"><rect x="181.8" y="48" height="22" width="0"><animate attributeName="width" values="9.4;17.8;26.2;34.6;43.0;51.4;59.8;68.2" begin="0.25s" dur="0.75s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+    <text x="182.8" y="62" class="t wh" font-size="14" textLength="67.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#ty)">neofetch</text>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/>
+      <text x="40" y="96.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">██╗   ██╗███████╗</text>
+      <text x="40" y="113.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">╚██╗ ██╔╝██╔════╝</text>
+      <text x="40" y="130.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs"> ╚████╔╝ █████╗  </text>
+      <text x="40" y="147.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">  ╚██╔╝  ██╔══╝  </text>
+      <text x="40" y="164.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">   ██║   ███████╗</text>
+      <text x="40" y="181.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">   ╚═╝   ╚══════╝</text>
+      <text x="40" y="198.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs"> ██████╗ ███████╗</text>
+      <text x="40" y="215.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">██╔════╝ ██╔════╝</text>
+      <text x="40" y="232.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">██║  ███╗█████╗  </text>
+      <text x="40" y="249.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">██║   ██║██╔══╝  </text>
+      <text x="40" y="266.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs">╚██████╔╝███████╗</text>
+      <text x="40" y="283.0" class="t logo" font-size="17" textLength="173.4" lengthAdjust="spacingAndGlyphs"> ╚═════╝ ╚══════╝</text>
+    </g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/><text x="260" y="96" class="t key" font-size="14" textLength="100.8" lengthAdjust="spacingAndGlyphs">luis@yegear1</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.20s" fill="freeze"/><text x="260" y="118" class="t dim" font-size="14" textLength="100.8" lengthAdjust="spacingAndGlyphs">────────────</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.25s" fill="freeze"/><text x="260" y="140" class="t key" font-size="14" textLength="42.0" lengthAdjust="spacingAndGlyphs">Role:</text><text x="310.4" y="140" class="t wh" font-size="14" textLength="193.2" lengthAdjust="spacingAndGlyphs">Infra &amp; Aspirante a Dev</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.30s" fill="freeze"/><text x="260" y="162" class="t key" font-size="14" textLength="42.0" lengthAdjust="spacingAndGlyphs">Host:</text><text x="310.4" y="162" class="t wh" font-size="14" textLength="176.4" lengthAdjust="spacingAndGlyphs">Homelab · Self-Hosted</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.35s" fill="freeze"/><text x="260" y="184" class="t key" font-size="14" textLength="50.4" lengthAdjust="spacingAndGlyphs">Local:</text><text x="318.8" y="184" class="t wh" font-size="14" textLength="50.4" lengthAdjust="spacingAndGlyphs">Brasil</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.40s" fill="freeze"/><text x="260" y="206" class="t key" font-size="14" textLength="50.4" lengthAdjust="spacingAndGlyphs">Infra:</text><text x="318.8" y="206" class="t wh" font-size="14" textLength="260.4" lengthAdjust="spacingAndGlyphs">docker, proxmox, traefik, linux</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/><text x="260" y="228" class="t key" font-size="14" textLength="134.4" lengthAdjust="spacingAndGlyphs">Observabilidade:</text><text x="402.8" y="228" class="t wh" font-size="14" textLength="235.2" lengthAdjust="spacingAndGlyphs">victorialogs, vector, sqlite</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.50s" fill="freeze"/><text x="260" y="250" class="t key" font-size="14" textLength="92.4" lengthAdjust="spacingAndGlyphs">Linguagens:</text><text x="360.8" y="250" class="t wh" font-size="14" textLength="235.2" lengthAdjust="spacingAndGlyphs">python, go, typescript, bash</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.55s" fill="freeze"/><text x="260" y="272" class="t key" font-size="14" textLength="42.0" lengthAdjust="spacingAndGlyphs">Foco:</text><text x="310.4" y="272" class="t wh" font-size="14" textLength="319.2" lengthAdjust="spacingAndGlyphs">ferramentas cli, automacao, agentes ia</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/><text x="260" y="294" class="t key" font-size="14" textLength="58.8" lengthAdjust="spacingAndGlyphs">Status:</text><text x="327.2" y="294" class="t wh" font-size="14" textLength="327.6" lengthAdjust="spacingAndGlyphs">aprendendo na pratica, criando projetos</text></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/><rect x="260.0" y="324" width="25.2" height="15" fill="#1d1f21"/><rect x="260.0" y="339" width="25.2" height="15" fill="#666666"/><rect x="285.2" y="324" width="25.2" height="15" fill="#cc6666"/><rect x="285.2" y="339" width="25.2" height="15" fill="#ff7b7b"/><rect x="310.4" y="324" width="25.2" height="15" fill="#b5bd68"/><rect x="310.4" y="339" width="25.2" height="15" fill="#d7e086"/><rect x="335.6" y="324" width="25.2" height="15" fill="#f0c674"/><rect x="335.6" y="339" width="25.2" height="15" fill="#ffdc8c"/><rect x="360.8" y="324" width="25.2" height="15" fill="#81a2be"/><rect x="360.8" y="339" width="25.2" height="15" fill="#a5c4e0"/><rect x="386.0" y="324" width="25.2" height="15" fill="#b294bb"/><rect x="386.0" y="339" width="25.2" height="15" fill="#d4b5dd"/><rect x="411.2" y="324" width="25.2" height="15" fill="#8abeb7"/><rect x="411.2" y="339" width="25.2" height="15" fill="#a8dcd4"/><rect x="436.4" y="324" width="25.2" height="15" fill="#c5c8c6"/><rect x="436.4" y="339" width="25.2" height="15" fill="#ffffff"/></g>
+    <g opacity="0"><set attributeName="opacity" to="1" begin="1.95s" fill="freeze"/>
+      <text x="40" y="380" class="t key" font-size="14" textLength="142.8" lengthAdjust="spacingAndGlyphs">luis@yegear1 ~ $ </text>
+      
+      <rect class="cur" x="184.8" y="368" width="8.4" height="14" fill="#c5c8c6"/>
+    </g>
+  </g>
+  <rect width="840" height="418" fill="url(#scan)"/><rect width="840" height="418" fill="url(#vig)"/>
+</g>
+<rect x=".5" y=".5" width="839" height="417" rx="12" fill="none" stroke="#2a2e33"/>
+</svg>
