@@ -3,3 +3,6 @@ contact_links:
   - name: Security Vulnerability Report
     url: https://github.com/yegear1/.github/blob/main/SECURITY.md
     about: Please do not report security vulnerabilities in public issues. Follow our Security Policy for private disclosure.
+  - name: Support & Usage Guidelines
+    url: https://github.com/yegear1/.github/blob/main/SUPPORT.md
+    about: Check documentation and support channels before opening a bug report.
