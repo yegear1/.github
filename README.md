@@ -35,6 +35,9 @@ flowchart LR
 | [`.github/ISSUE_TEMPLATE/feature_request.yml`](./.github/ISSUE_TEMPLATE/feature_request.yml) | Issue Chooser | Structured YAML form capturing problem statements, proposed solutions, and alternatives. |
 | [`.github/ISSUE_TEMPLATE/config.yml`](./.github/ISSUE_TEMPLATE/config.yml) | Issue Chooser | Disables blank issues and links directly to private security reporting and support resources. |
 | [`.github/pull_request_template.md`](./.github/pull_request_template.md) | Pull Request Creation | Standardized PR summary, change list, and verification checklist (`exit code == 0`). |
+| [`.github/FUNDING.yml`](./.github/FUNDING.yml) | Repository Header | Enables the **Sponsor** button across public repositories (GitHub Sponsors & Ko-fi). |
+| [`.github/CODEOWNERS`](./.github/CODEOWNERS) | Pull Request Reviews | Assigns `@yegear1` as default code owner for review requests. |
+| [`profile/README.md`](./profile/README.md) | Account Profile | Bilingual profile overview (`README.md` and `README.pt-br.md`) mirrored to `yegear1/yegear1`. |
 
 ## Usage
 
@@ -61,7 +64,12 @@ cp /path/to/.github/.github/pull_request_template.md .github/pull_request_templa
 │   │   ├── bug_report.yml
 │   │   ├── config.yml
 │   │   └── feature_request.yml
+│   ├── CODEOWNERS
+│   ├── FUNDING.yml
 │   └── pull_request_template.md
+├── profile/
+│   ├── README.md
+│   └── README.pt-br.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
