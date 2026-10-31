@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-logo.svg" width="100%" alt="neofetch card with YEGE ASCII logo: Luis (@yegear1)">
+  <img src="assets/header-neofetch.svg" width="100%" alt="neofetch card with spinning 3D ASCII cube">
 </p>
 
 <p align="center">
@@ -25,16 +25,62 @@ I care about simple, self-contained tools, clean logs, and software that is easy
 
 ### `~/homelab-and-stack`
 
-- **Infrastructure & Ops:** Docker Compose, Proxmox VE, Traefik, Linux administration, self-hosted services
+- **Infrastructure & Ops:** Docker Compose, Proxmox VE, Traefik, Linux administration, Oracle Cloud ARM (OCI), self-hosted services
 - **Observability:** VictoriaLogs, Vector, structured NDJSON logging, healthchecks
-- **Development (Learning & Building):** Python, Go, TypeScript, Node.js, Bash, SQLite (WAL), Svelte 5, React
-- **Automation & AI:** MCP servers, multi-agent workflows, deterministic CLI tooling
+- **Development (Learning & Building):** Python, Go, TypeScript, Node.js, Bash, SQLite (WAL), Svelte 5, React, Tailwind CSS
+- **Automation & AI:** MCP servers, multi-agent workflows, WhatsApp HA gateways, deterministic CLI tooling
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=light&perline=14" />
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" alt="Tech Stack" />
+  </picture>
+</div>
+
+<p align="center">
+  <img height="24" src="https://img.shields.io/badge/Docker_Compose-101214?style=for-the-badge&logo=docker&logoColor=8abeb7" alt="Docker Compose" />
+  <img height="24" src="https://img.shields.io/badge/Proxmox_VE-101214?style=for-the-badge&logo=proxmox&logoColor=8abeb7" alt="Proxmox VE" />
+  <img height="24" src="https://img.shields.io/badge/Traefik-101214?style=for-the-badge&logo=traefikproxy&logoColor=8abeb7" alt="Traefik" />
+  <img height="24" src="https://img.shields.io/badge/Linux-101214?style=for-the-badge&logo=linux&logoColor=8abeb7" alt="Linux" />
+  <img height="24" src="https://img.shields.io/badge/OCI_ARM64-101214?style=for-the-badge&logo=arm&logoColor=8abeb7" alt="OCI ARM64" />
+  <img height="24" src="https://img.shields.io/badge/VictoriaLogs-101214?style=for-the-badge&logo=victoriametrics&logoColor=81a2be" alt="VictoriaLogs" />
+  <img height="24" src="https://img.shields.io/badge/Vector-101214?style=for-the-badge&logo=datadog&logoColor=81a2be" alt="Vector" />
+  <img height="24" src="https://img.shields.io/badge/SQLite_WAL-101214?style=for-the-badge&logo=sqlite&logoColor=81a2be" alt="SQLite WAL" />
+  <br/>
+  <img height="24" src="https://img.shields.io/badge/Python-101214?style=for-the-badge&logo=python&logoColor=8abeb7" alt="Python" />
+  <img height="24" src="https://img.shields.io/badge/Go-101214?style=for-the-badge&logo=go&logoColor=8abeb7" alt="Go" />
+  <img height="24" src="https://img.shields.io/badge/TypeScript-101214?style=for-the-badge&logo=typescript&logoColor=8abeb7" alt="TypeScript" />
+  <img height="24" src="https://img.shields.io/badge/Node.js-101214?style=for-the-badge&logo=nodedotjs&logoColor=8abeb7" alt="Node.js" />
+  <img height="24" src="https://img.shields.io/badge/Bash-101214?style=for-the-badge&logo=gnubash&logoColor=8abeb7" alt="Bash" />
+  <img height="24" src="https://img.shields.io/badge/Svelte_5-101214?style=for-the-badge&logo=svelte&logoColor=b294bb" alt="Svelte 5" />
+  <img height="24" src="https://img.shields.io/badge/React-101214?style=for-the-badge&logo=react&logoColor=b294bb" alt="React" />
+  <img height="24" src="https://img.shields.io/badge/Tailwind_CSS-101214?style=for-the-badge&logo=tailwindcss&logoColor=b294bb" alt="Tailwind CSS" />
+  <img height="24" src="https://img.shields.io/badge/MCP_Servers-101214?style=for-the-badge&logo=modelcontextprotocol&logoColor=b294bb" alt="MCP Servers" />
+  <img height="24" src="https://img.shields.io/badge/WhatsApp_HA-101214?style=for-the-badge&logo=whatsapp&logoColor=b294bb" alt="WhatsApp HA" />
+  <img height="24" src="https://img.shields.io/badge/GitHub_Actions-101214?style=for-the-badge&logo=githubactions&logoColor=b294bb" alt="GitHub Actions" />
+</p>
+
+### `~/stats`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=default&background=transparent&border=00000000&ring=0d1117&fire=0d1117" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" alt="GitHub Streak" />
   </picture>
 </div>
 
