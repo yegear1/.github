@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-neofetch.svg" width="100%" alt="neofetch-style card: Luis (@yegear1), Infra & Aspiring Dev, Homelab, Docker, Proxmox, Python, Go, TypeScript.">
+  <img src="assets/header-neofetch.svg" width="100%" alt="neofetch-style card with spinning 3D ASCII cube: Luis (@yegear1), Infra & Aspiring Dev, Homelab, Docker, Proxmox, Python, Go, TypeScript.">
 </p>
 
 <p align="center">
@@ -33,6 +33,39 @@ I care about simple, self-contained tools, clean logs, and software that is easy
 - **Observability:** VictoriaLogs, Vector, structured NDJSON logging, healthchecks
 - **Development (Learning & Building):** Python, Go, TypeScript, Node.js, Bash, SQLite (WAL), Svelte 5, React
 - **Automation & AI:** MCP servers, multi-agent workflows, deterministic CLI tooling
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=light&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,py,go,ts,nodejs,sqlite,svelte,react,tailwind,git,github,githubactions&theme=dark&perline=14" alt="Tech Stack" />
+  </picture>
+</div>
+
+### `~/stats`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yegear1&show_icons=true&title_color=8abeb7&icon_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yegear1&layout=compact&langs_count=6&title_color=8abeb7&text_color=e6e6e6&bg_color=101214&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=default&background=transparent&border=00000000&ring=0d1117&fire=0d1117" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yegear1&theme=dark&background=101214&border=00000000&ring=8abeb7&fire=8abeb7&currStreakNum=e6e6e6&sideNums=e6e6e6&currStreakLabel=8abeb7&sideLabels=8abeb7&dates=6b7078" alt="GitHub Streak" />
+  </picture>
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/yegear1"><img src="https://img.shields.io/badge/github-@yegear1-101214?style=for-the-badge&logo=github&logoColor=8abeb7" alt="GitHub"></a>
